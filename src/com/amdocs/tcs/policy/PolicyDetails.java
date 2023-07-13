@@ -9,5 +9,11 @@ public class PolicyDetails
 		
 		int policyNumber= 76876876;
 		System.out.println(policyNumber);
+		
+	}
+	
+	public void racer()
+	{
+		System.out.println("race");
 	}
 }

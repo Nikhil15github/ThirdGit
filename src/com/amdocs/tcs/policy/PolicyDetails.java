@@ -9,5 +9,6 @@ public class PolicyDetails
 		
 		int policyNumber= 76876876;
 		System.out.println(policyNumber);
+		
 	}
 }

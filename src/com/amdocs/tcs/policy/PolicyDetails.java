@@ -11,4 +11,9 @@ public class PolicyDetails
 		System.out.println(policyNumber);
 		
 	}
+	
+	public void demo()
+	{
+		System.out.println("hello");
+	}
 }

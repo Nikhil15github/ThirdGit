@@ -7,7 +7,7 @@ public class PolicyDetails
 	public static void main(String[] args) 
 	{
 		
-		int policyNumber= 76876876;
+		int policyNumber= 989886;
 		System.out.println(policyNumber);
 		
 	}
